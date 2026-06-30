@@ -2,7 +2,7 @@
 
 A premium, highly responsive **AI Travel Planner** web application built with **React 19**, **Vite 8**, **TypeScript**, and **Tailwind CSS v4**. Craft custom, detailed travel itineraries in seconds!
 
-🌐 **Live Local Address**: `http://localhost:5173/`
+🌐 **Live Local Address**: `https://ai-travel-planner-with-gemini-4vfqlnj5f-gautam-shendes-projects.vercel.app/`
 
 ---
 
